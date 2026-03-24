@@ -1,0 +1,29 @@
+{
+    "id": "/snake-game-polyglot/",
+    "name": "Snake · Polyglot Edition",
+    "short_name": "Snake",
+    "description": "One game, five languages. A high-performance snake game built in JavaScript, Python, C, Rust, and Go.",
+    "start_url": "/snake-game-polyglot/web/index.html",
+    "scope": "/snake-game-polyglot/web/",
+    "display": "standalone",
+    "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+    "orientation": "portrait",
+    "background_color": "#080809",
+    "theme_color": "#080809",
+    "categories": ["games", "entertainment"],
+    "lang": "en",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
